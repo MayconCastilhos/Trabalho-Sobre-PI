@@ -1,0 +1,93 @@
+body{
+    background: rgb(251, 252, 251) url("imagem");
+    font: 16px Arial;
+    width: 97%;}
+    
+#principal{
+            background-color: white;
+            
+}
+#menu {
+    background: #001aff;
+    padding: 20px;
+    width: 97%;
+
+}
+a{
+   color: rgb(253, 253, 253); 
+   text-decoration: none;
+   font-weight: bold;
+   padding: 15px;
+   }
+a:hover{color: rgb(250, 0, 0);
+        text-decoration: underline;
+} 
+
+#conteudo{
+    color: #001aff;
+
+}
+#INTRODUÇÃO{
+    font-size: 20px;
+    
+}
+
+    
+
+#objetivos{
+    display:flex ;
+    justify-content: space-between;
+    font-family: 'Times New Roman', Times, serif;
+    align-items:initial;
+    font-size: 18px;
+    padding: 0px;
+}
+#paginas{
+    text-align: right;
+    background: #001aff;
+    padding: 7px;
+    width: 100%;
+
+}
+#paginas2{
+    text-align: left;
+    background: #001aff;
+    padding: 7px;
+    width: 100%;
+
+}
+
+#conteúdo3{
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        align-items:initial;
+}
+#conteúdo2{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    color:green;
+}
+#imagens{
+    height: 200px;
+    width: 200px;
+    border: 5px solid green;
+
+}
+#ginasio{
+    font-size: 30px;
+    
+}
+table{
+    border: rgb(0, 255, 0);
+    border-width: 10px;
+}
+#imagem2{
+    height: 150px;
+    width: 150px;
+    border: 5px solid red;
+    border-radius: 50%;
+}
